@@ -29,3 +29,9 @@ Add A records:
 185.199.111.153
 These are to point to your own domain with these IPs.
 
+Add a CNAME record to:
+chatbot.getsupport.us
+
+point to:
+lbraziel.gitbhub.io
+
